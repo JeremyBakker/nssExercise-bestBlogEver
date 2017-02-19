@@ -1,0 +1,35 @@
+$primary-color: darkgrey  !default;
+$primary-color-light: lighten($primary-color, 15%) !default;
+$primary-color-dark: darken($primary-color, 15%) !default;
+
+
+.nav-wrapper {
+	background-color: $primary-color;
+	margin-bottom: 15px;
+	padding: 0 10px;
+	color: black;
+	font-family: barrio, cursive;
+}
+
+span.brand-logo {
+	color: black;
+	font-family: barrio, cursive;
+}
+
+.btn-floating {
+	background-color: $primary-color-light;
+}
+
+.card-content, 
+.card-reveal {
+	font-family: "Times New Roman", sans-serif;
+}
+
+footer.page-footer {
+	background-color: $primary-color;
+}
+
+div.footer-copyright div.container {
+	color: black;
+	font-family: barrio, cursive;
+}

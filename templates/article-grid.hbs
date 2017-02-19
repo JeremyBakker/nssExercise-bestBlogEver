@@ -1,0 +1,20 @@
+{{#each articles}}
+
+	<div class="col s12 m6">
+		<div class="card">
+			<div class="card-image waves-effect waves-block waves-light">
+				<img class="activator" height="322.64" width="617.5" src="../{{image}}">
+			</div>
+			<div class="card-content">
+				<span class="card-title activator grey-text text-darken-4">{{title}}<i class="material-icons right"><a class="btn-floating btn-large waves-effect waves-light black activator">+</a></i></span>
+				<p>{{author}}</p>
+			</div>
+			<div class="card-reveal">
+				<span class="card-title grey-text text-darken-4">{{title}}<i class="material-icons right btn-floating btn-large waves-effect waves-light black activator">-</i></span>
+				<p><small>{{date}}</small></p>
+				<p>{{copy}}</p>
+			</div>
+		</div>
+	</div>
+
+{{/each}}

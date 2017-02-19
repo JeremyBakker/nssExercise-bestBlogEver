@@ -1,0 +1,23 @@
+{
+	"articles": [
+		{	"title": "Generic Lorem Ipsum",
+			"author": "Lily Bailee Stanton",
+			"copy": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum quos quaerat repellat quae adipisci facilis minus reiciendis voluptates porro eius qui modi esse, impedit maxime officiis aliquid commodi eveniet dolorem!",
+			"date": "February 18, 2017",
+			"image":"images/loremIpsum.jpg"
+		},
+		{	"title" : "Trump Ipsum",
+			"author": "Keira Haley Daniel",
+			"copy": "Some people have an ability to write placeholder text... It's an art you're basically born with. You either have it or you don't. All of the words in Lorem Ipsum have flirted with me - consciously or unconsciously. That's to be expected. An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud. Does everybody know that pig named Lorem Ipsum? She's a disgusting pig, right?",
+			"date": "February 19, 2017",
+			"image": "images/trumpIpsum.png"
+
+		},
+		{	"title" : "Fillerati Ipsum",
+			"author": "Arthur Julyan Lindsey",
+			"copy": "The boys were true savages, possessing only the cruel humor of the savage. To them the incident was excruciatingly funny, and they burst  into loud laughter. Hoo-Hoo danced up and down, while Edwin rolled  gleefully on the ground. The boy with the goats came running to join in  the fun.",
+			"date": "February 20, 2017",
+			"image": "images/filleratiIpsum.jpg"
+		}
+	]
+}
