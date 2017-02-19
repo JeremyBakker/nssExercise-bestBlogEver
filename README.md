@@ -1,22 +1,4 @@
-## Best Blog Ever: A Handlebars.js exercise 
-
-In this exercise you will use the technology you've learned to this point ( Browserify, SASS, Grunt) to  
-create a blog page with three short articles (You can use placeholder text for the articles).  
-
-Handlebars will be used to create your view -- a template and a JavaScript object bound together and rendered as HTML
-
-### Setup
-
-#### Create Exercise Directory
-
-```bash
-mkdir -p ~/workspace/exercises/rich-browser/hbs-blog && cd $_
-```
-
-### Requirements
-
-Make sure you have a `package.json` file in your `lib` folder, either by running `npm init` in that folder or repurposing a `package.json` from a previous project that used browserify and SASS. Add the necessary packages with  
-`npm install handlebars hbsfy --save`.  
+## Best Blog Ever: A Handlebars.js exercise  
 
 #### The Basic impementation:
 1. Create a blog page with three short articles
